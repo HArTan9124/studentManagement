@@ -24,3 +24,4 @@ A modern **Android + Firebase-based** Student Management System designed to auto
 - **Firebase Realtime Database** – Real-time data sync
 - **Firebase Authentication** – Secure user management
 - **Firebase Emulator Suite** – API & backend testing
+# Student-Management
