@@ -1,12 +1,12 @@
-# 🏢 Hostel Management System
+# 🏢 Student Management System
 
-A modern **Android + Firebase-based** Hostel Management System designed to automate and streamline the operations of college hostels and working accommodations. Built with a secure, scalable, and user-friendly approach, this project simplifies daily hostel tasks like room allotment, fee tracking, attendance, and complaint resolution.
+A modern **Android + Firebase-based** Student Management System designed to automate and streamline the operations of college and working accommodations. Built with a secure, scalable, and user-friendly approach, this project simplifies daily hostel tasks like room allotment, fee tracking, attendance, and complaint resolution.
 
 ---
 
 ## ✨ Features
 
-- 🔒 **Firebase Authentication** for secure login and role-based access (admin, warden, student)
+- 🔒 **Firebase Authentication** for secure login and role-based access (admin, Staff, student)
 - 📦 **Room Allotment** management and dynamic availability tracking
 - 💸 **Fee Management** with payment status tracking and reminders
 - 📡 **Firebase Realtime Database** for instant updates across devices
